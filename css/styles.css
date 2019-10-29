@@ -22,3 +22,7 @@ h3 {
 h4 {
   color: #008b8b;
 }
+
+.emptyRow {
+  height: 22px;
+}
