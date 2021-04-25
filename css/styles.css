@@ -23,6 +23,15 @@ h4 {
   color: #008b8b;
 }
 
+.contact-info {
+  display: inline-block;
+  margin: 16px;
+}
+
+.close {
+  margin: 5px 0;
+}
+
 .emptyRow {
   height: 22px;
 }
