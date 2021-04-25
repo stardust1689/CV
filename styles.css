@@ -1,0 +1,37 @@
+body {
+  background-color: #afeeee;
+}
+
+hr {
+  border-color: #008b8b;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 35%;
+  height: 0;
+}
+
+h1 {
+  color: #008b8b;
+}
+
+h3 {
+  color: #008b8b;
+}
+
+h4 {
+  color: #008b8b;
+}
+
+.contact-info {
+  display: inline-block;
+  margin: 16px;
+}
+
+.close {
+  margin: 5px 0;
+}
+
+.emptyRow {
+  height: 22px;
+}
